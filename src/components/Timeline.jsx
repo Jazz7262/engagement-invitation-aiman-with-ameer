@@ -13,19 +13,21 @@ function Timeline() {
                     data-aos-delay="100"
                 >
                     <div className="content">
-                        <h1>Nikaah</h1>
+                        <h1>Engagement Ceremony</h1>
                         <p>
-                            On Friday, 3<sup>rd</sup> February, 2023,
+                            On Saturday, 15<sup>th</sup> July, 2023,
                             <br />
-                            11<sup>th</sup> Rajab-ul-Murajjab, 1444 Hijri,
+                            26<sup>th</sup> Zil-Hajjah, 1444 Hijri,
                             <br />
-                            Time: 07:30 PM.
+                            After Namaaz -e- Zohar,
+                            <br />
+                            Time: 02:00 PM.
                         </p>
                         <h2>Venue:</h2>
                         <p>
-                            Farhan Khan Hall,
-                            <br /> Millat Nagar,
-                            <br /> Bhiwandi.
+                            Sana Function Hall,
+                            <br /> Tirmal Nagar,
+                            <br /> Adoni.
                         </p>
                     </div>
                 </div>
@@ -76,7 +78,7 @@ function Timeline() {
 
         //                         <h2>Nikaah At:</h2>
         //                         <p>
-        //                           Masjid-e-Ata-e-Rasool, 
+        //                           Masjid-e-Ata-e-Rasool,
         //                             <br /> MW Function Hall,
         //                             <br /> Atmakur.
         //                         </p>
